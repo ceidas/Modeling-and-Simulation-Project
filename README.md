@@ -1,10 +1,10 @@
 # Modeling-and-Simulation-Project
 
-Finite element Analysis of femoral neck fractures using FEBio Suite and OpenSim
-
 This project was completed in 2018 as part of my postgraduate studies in Biomedical Engineering.
 
 Context: Modeling and simulating femoral neck fractures using Finite Element Analysis.
+
+Finite element Analysis of femoral neck fractures using FEBio Suite and OpenSim
 
 Assignments :
 
@@ -29,5 +29,7 @@ Methods: Modeling and Simulation, Inverse Kinematics
 OS: Linux-Ubuntu & Windows 10
 
 Achievements: Successful implementation of all tasks. However the results of the numbers we took for unknown reason were not realistic according to official literature (probably the mesh file had a bug or less possible there was wrong convention with the values input and the mesh file that was used).
+
+*Rest files due to their large size, can not be uploaded to github
 
 
